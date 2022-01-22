@@ -2,6 +2,9 @@
   "name": "embedded-techdocs-app",
   "version": "0.2.61",
   "private": true,
+  "backstage": {
+    "role": "app"
+  },
   "bundled": true,
   "dependencies": {
     "@backstage/app-defaults": "^0.1.5",
