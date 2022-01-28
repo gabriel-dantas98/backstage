@@ -1,5 +1,17 @@
 # example-app
 
+## 0.2.63
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.8.7
+  - @backstage/plugin-org@0.4.1
+  - @backstage/plugin-pagerduty@0.3.24
+  - @backstage/plugin-catalog-import@0.8.0
+  - @backstage/plugin-scaffolder@0.12.1
+  - @backstage/cli@0.13.1
+
 ## 0.2.62
 
 ### Patch Changes

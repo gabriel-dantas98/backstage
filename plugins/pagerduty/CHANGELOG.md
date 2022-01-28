@@ -1,5 +1,13 @@
 # @backstage/plugin-pagerduty
 
+## 0.3.24
+
+### Patch Changes
+
+- 5a459626bc: Fix change events tab error when change events exist
+- Updated dependencies
+  - @backstage/core-components@0.8.7
+
 ## 0.3.23
 
 ### Patch Changes

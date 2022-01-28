@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 0.12.1
+
+### Patch Changes
+
+- a681cb9c2f: Make linkTarget configurable for MarkdownContent component
+- Updated dependencies
+  - @backstage/core-components@0.8.7
+
 ## 0.12.0
 
 ### Minor Changes

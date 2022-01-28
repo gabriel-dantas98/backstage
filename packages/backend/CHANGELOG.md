@@ -1,5 +1,17 @@
 # example-backend
 
+## 0.2.63
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.9.0
+  - @backstage/plugin-catalog-backend@0.21.2
+  - @backstage/plugin-permission-backend@0.4.2
+  - @backstage/plugin-permission-node@0.4.2
+  - @backstage/plugin-search-backend@0.4.1
+  - example-app@0.2.63
+
 ## 0.2.62
 
 ### Patch Changes
